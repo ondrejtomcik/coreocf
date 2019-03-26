@@ -194,8 +194,7 @@
           "type": "array"
         }
       },
-      "type": "object",
-      "required": ["n", "di", "icv", "dmv", "piid"]
+      "type": "object"
     }
   }
 }
