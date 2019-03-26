@@ -183,12 +183,7 @@
         "type": {
           "$ref": "https://openconnectivityfoundation.github.io/core/schemas/oic.links.properties.core-schema.json#/definitions/type"
         }
-      },
-      "required": [
-        "href",
-        "rt",
-        "if"
-      ]
+      }
     },
     "slinklist": {
       "type" : "array",
